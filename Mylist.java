@@ -4,5 +4,13 @@ class Mylist{
     System.out.println("end");
       System.out.println("end");
     System.out.println("commmits on new branch");
+
+    printHelo();
   }
+
+public void printHelo(){
+  System.out.println("Hello");
+}
+
+
 }
