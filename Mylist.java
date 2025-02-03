@@ -6,6 +6,12 @@ class Mylist{
     System.out.println("commmits on new branch");
 
     printHelo();
+    printList();
+  }
+
+
+  public void printList(){
+    System.out.println("lsiting");
   }
 
 public void printHelo(){
