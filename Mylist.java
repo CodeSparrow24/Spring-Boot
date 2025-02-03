@@ -16,6 +16,7 @@ class Mylist{
 
 public void printHelo(){
   System.out.println("Hello");
+System.out.println("String");
 }
 
 
