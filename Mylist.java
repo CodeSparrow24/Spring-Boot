@@ -5,6 +5,7 @@ class Mylist{
       System.out.println("end");
     System.out.println("commmits on new branch");
 System.out.println("1234");
+System.out.println("new");
     printHelo();
     printList();
   }
