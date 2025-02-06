@@ -5,17 +5,17 @@ class Mylist{
       System.out.println("end");
     System.out.println("commmits on new branch");
 System.out.println("1234");
-System.out.println("new");
+System.out.println("new print st");
     printHelo();
     printList();
   }
 
 
-  public void printList(){
+  public static void printList(){
     System.out.println("lsiting");
   }
 
-public void printHelo(){
+public static void printHelo(){
   System.out.println("Hello");
 System.out.println("String");
 }
